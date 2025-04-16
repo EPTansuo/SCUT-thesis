@@ -620,7 +620,7 @@
     \begingroup
 
     % 引用样式
-    \bibliographystyle{gbt7714-numerical}
+    \bibliographystyle{scutref}
     % \nocite{*}
     % F15 参考文献内容 宋体五号
     {\zihao{-4}\songti\linespread{1.5}\bibliography{main}}    % 引用文献列表
